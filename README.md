@@ -1,5 +1,5 @@
 # hello-world
 Try and test Github
 
-and not testing out 'branches'
+tried branching however do not completely understand this feature yet! 
 
